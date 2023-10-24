@@ -12,7 +12,7 @@ def guess(x):
 
     print(f"{guess} is correct")
 
-guess(10)
+guess(100)
 
 
 
